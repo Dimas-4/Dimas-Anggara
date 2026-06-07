@@ -1,0 +1,7 @@
+{
+  "name": "NaskahPro AI",
+  "description": "Asisten review akademik untuk skripsi, artikel jurnal, dan chapter book berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
